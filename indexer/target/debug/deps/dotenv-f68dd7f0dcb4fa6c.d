@@ -1,0 +1,11 @@
+/home/limadevbtc/Documentos/bitmarketbet/indexer/target/debug/deps/libdotenv-f68dd7f0dcb4fa6c.rmeta: /home/limadevbtc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dotenv-0.15.0/src/lib.rs /home/limadevbtc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dotenv-0.15.0/src/parse.rs /home/limadevbtc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dotenv-0.15.0/src/errors.rs /home/limadevbtc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dotenv-0.15.0/src/iter.rs /home/limadevbtc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dotenv-0.15.0/src/find.rs
+
+/home/limadevbtc/Documentos/bitmarketbet/indexer/target/debug/deps/libdotenv-f68dd7f0dcb4fa6c.rlib: /home/limadevbtc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dotenv-0.15.0/src/lib.rs /home/limadevbtc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dotenv-0.15.0/src/parse.rs /home/limadevbtc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dotenv-0.15.0/src/errors.rs /home/limadevbtc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dotenv-0.15.0/src/iter.rs /home/limadevbtc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dotenv-0.15.0/src/find.rs
+
+/home/limadevbtc/Documentos/bitmarketbet/indexer/target/debug/deps/dotenv-f68dd7f0dcb4fa6c.d: /home/limadevbtc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dotenv-0.15.0/src/lib.rs /home/limadevbtc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dotenv-0.15.0/src/parse.rs /home/limadevbtc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dotenv-0.15.0/src/errors.rs /home/limadevbtc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dotenv-0.15.0/src/iter.rs /home/limadevbtc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dotenv-0.15.0/src/find.rs
+
+/home/limadevbtc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dotenv-0.15.0/src/lib.rs:
+/home/limadevbtc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dotenv-0.15.0/src/parse.rs:
+/home/limadevbtc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dotenv-0.15.0/src/errors.rs:
+/home/limadevbtc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dotenv-0.15.0/src/iter.rs:
+/home/limadevbtc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dotenv-0.15.0/src/find.rs:

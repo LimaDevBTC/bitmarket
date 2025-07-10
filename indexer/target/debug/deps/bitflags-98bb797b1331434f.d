@@ -1,0 +1,11 @@
+/home/limadevbtc/Documentos/bitmarketbet/indexer/target/debug/deps/libbitflags-98bb797b1331434f.rmeta: /home/limadevbtc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.9.1/src/lib.rs /home/limadevbtc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.9.1/src/iter.rs /home/limadevbtc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.9.1/src/parser.rs /home/limadevbtc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.9.1/src/traits.rs /home/limadevbtc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.9.1/src/public.rs /home/limadevbtc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.9.1/src/internal.rs /home/limadevbtc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.9.1/src/external.rs
+
+/home/limadevbtc/Documentos/bitmarketbet/indexer/target/debug/deps/bitflags-98bb797b1331434f.d: /home/limadevbtc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.9.1/src/lib.rs /home/limadevbtc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.9.1/src/iter.rs /home/limadevbtc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.9.1/src/parser.rs /home/limadevbtc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.9.1/src/traits.rs /home/limadevbtc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.9.1/src/public.rs /home/limadevbtc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.9.1/src/internal.rs /home/limadevbtc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.9.1/src/external.rs
+
+/home/limadevbtc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.9.1/src/lib.rs:
+/home/limadevbtc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.9.1/src/iter.rs:
+/home/limadevbtc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.9.1/src/parser.rs:
+/home/limadevbtc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.9.1/src/traits.rs:
+/home/limadevbtc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.9.1/src/public.rs:
+/home/limadevbtc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.9.1/src/internal.rs:
+/home/limadevbtc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.9.1/src/external.rs:

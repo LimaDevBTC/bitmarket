@@ -1,0 +1,300 @@
+{
+  "common": {
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "cancel": "Cancel",
+    "confirm": "Confirm",
+    "save": "Save",
+    "edit": "Edit",
+    "delete": "Delete",
+    "close": "Close",
+    "back": "Back",
+    "next": "Next",
+    "previous": "Previous",
+    "view": "View",
+    "create": "Create",
+    "update": "Update",
+    "search": "Search",
+    "filter": "Filter",
+    "sort": "Sort",
+    "refresh": "Refresh",
+    "copy": "Copy",
+    "copied": "Copied!",
+    "yes": "Yes",
+    "no": "No",
+    "active": "Active",
+    "inactive": "Inactive",
+    "pending": "Pending",
+    "confirmed": "Confirmed",
+    "settled": "Settled",
+    "cancelled": "Cancelled"
+  },
+  "navigation": {
+    "home": "Home",
+    "markets": "Markets",
+    "dashboard": "Dashboard",
+    "portfolio": "Portfolio",
+    "settings": "Settings",
+    "createMarket": "Create Market",
+    "exploreMarkets": "Explore Markets",
+    "viewAll": "View All"
+  },
+  "home": {
+    "hero": {
+      "title": "Prediction Markets",
+      "subtitle": "on Bitcoin",
+      "description": "The first fully on-chain prediction market built on Bitcoin using the Runes protocol. Bet on real-world events with the security and reliability of Bitcoin.",
+      "createMarket": "Create Market",
+      "exploreMarkets": "Explore Markets",
+      "badge": "The Future of Prediction Markets"
+    },
+    "features": {
+      "bitcoinNative": {
+        "title": "Bitcoin Native",
+        "description": "Built directly on Bitcoin using Runes protocol"
+      },
+      "fullyOnChain": {
+        "title": "Fully On-Chain",
+        "description": "No intermediaries, true decentralization"
+      },
+      "instantSettlement": {
+        "title": "Instant Settlement",
+        "description": "Fast and secure transactions"
+      },
+      "globalAccess": {
+        "title": "Global Access",
+        "description": "Trade from anywhere in the world"
+      }
+    },
+    "markets": {
+      "title": "Active Markets",
+      "description": "Bet on real-world events with Bitcoin",
+      "viewAll": "View All"
+    }
+  },
+  "market": {
+    "create": {
+      "title": "Create Market",
+      "description": "Create a new prediction market and start trading",
+      "steps": {
+        "details": "Market Details",
+        "review": "Review & Confirm",
+        "created": "Market Created"
+      },
+      "form": {
+        "question": "Market Question",
+        "questionPlaceholder": "e.g., Will Bitcoin reach $100k in 2024?",
+        "description": "Description",
+        "descriptionPlaceholder": "Describe the market and conditions...",
+        "outcomeA": "Outcome A",
+        "outcomeAPlaceholder": "e.g., Yes",
+        "outcomeB": "Outcome B",
+        "outcomeBPlaceholder": "e.g., No",
+        "endDate": "End Date",
+        "category": "Category",
+        "initialLiquidity": "Initial Liquidity (USD)"
+      },
+      "categories": {
+        "crypto": "Cryptocurrency",
+        "politics": "Politics",
+        "sports": "Sports",
+        "entertainment": "Entertainment",
+        "technology": "Technology",
+        "other": "Other"
+      },
+      "success": {
+        "title": "Market Created Successfully!",
+        "description": "Your market has been created and is now available for trading.",
+        "viewMarket": "View Market",
+        "createAnother": "Create Another"
+      }
+    },
+    "detail": {
+      "backToMarkets": "Back to Markets",
+      "status": {
+        "active": "Active",
+        "settled": "Settled",
+        "cancelled": "Cancelled"
+      },
+      "ends": "Ends in",
+      "totalLiquidity": "Total Liquidity",
+      "totalVolume": "Total Volume",
+      "outcomes": {
+        "yes": "Yes",
+        "no": "No"
+      },
+      "betting": {
+        "title": "Place Bet",
+        "selectOutcome": "Select outcome",
+        "amount": "Bet amount (USD)",
+        "amountPlaceholder": "0.00",
+        "odds": "Odds",
+        "potentialWin": "Potential Win",
+        "placeBet": "Place Bet",
+        "connectWallet": "Connect your wallet to bet"
+      },
+      "liquidity": {
+        "title": "Add Liquidity",
+        "selectOutcome": "Select outcome",
+        "amount": "Liquidity amount (USD)",
+        "amountPlaceholder": "0.00",
+        "addLiquidity": "Add Liquidity",
+        "connectWallet": "Connect your wallet to add liquidity"
+      },
+      "settlement": {
+        "title": "Settle Market",
+        "selectWinner": "Select winner",
+        "settleMarket": "Settle Market",
+        "adminOnly": "Only administrators can settle markets"
+      },
+      "history": {
+        "title": "Betting History",
+        "noBets": "No bets yet",
+        "user": "User",
+        "outcome": "Outcome",
+        "amount": "Amount",
+        "odds": "Odds",
+        "date": "Date"
+      }
+    }
+  },
+  "portfolio": {
+    "title": "Portfolio",
+    "description": "Track your bets and performance in prediction markets",
+    "overview": "Overview",
+    "activePositions": "Active Positions",
+    "tradeHistory": "Trade History",
+    "stats": {
+      "totalValue": "Total Value",
+      "totalPnl": "Total P&L",
+      "activePositions": "Active Positions",
+      "totalTrades": "Total Trades"
+    },
+    "positions": {
+      "title": "Active Positions",
+      "market": "Market",
+      "outcome": "Outcome",
+      "amount": "Amount",
+      "odds": "Odds",
+      "potentialWin": "Potential Win",
+      "date": "Date"
+    },
+    "history": {
+      "title": "Trade History",
+      "market": "Market",
+      "outcome": "Outcome",
+      "amount": "Amount",
+      "odds": "Odds",
+      "status": "Status",
+      "date": "Date",
+      "noTrades": "No trades found"
+    }
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "description": "Overview of the BitMarket.bet platform",
+    "stats": {
+      "totalMarkets": "Total Markets",
+      "activeMarkets": "Active Markets",
+      "totalVolume": "Total Volume",
+      "totalLiquidity": "Total Liquidity",
+      "totalBets": "Total Bets",
+      "uniqueUsers": "Unique Users"
+    },
+    "topMarkets": {
+      "title": "Most Active Markets",
+      "volume": "Volume",
+      "liquidity": "Liquidity",
+      "bets": "Bets"
+    },
+    "recentActivity": {
+      "title": "Recent Activity",
+      "marketCreated": "Market created",
+      "betPlaced": "Bet placed",
+      "liquidityAdded": "Liquidity added",
+      "marketSettled": "Market settled"
+    }
+  },
+  "settings": {
+    "title": "Settings",
+    "description": "Manage your account preferences and security",
+    "profile": "Profile",
+    "security": "Security",
+    "notifications": "Notifications",
+    "appearance": "Appearance",
+    "wallet": "Wallet",
+    "language": "Language",
+    "restrictedAccess": {
+      "title": "Restricted Access",
+      "description": "Connect your wallet to access your account settings",
+      "connectWallet": "Connect Wallet",
+      "whyConnect": "Why connect?",
+      "profilePersonalized": "Personalized Profile",
+      "profileDescription": "Configure your name, email, and bio",
+      "securitySettings": "Security Settings",
+      "securityDescription": "Manage passwords and authentication",
+      "notifications": "Notifications",
+      "notificationsDescription": "Configure alerts and preferences",
+      "manageWallet": "Manage Wallet",
+      "walletDescription": "View addresses and connect/disconnect"
+    },
+    "profile": {
+      "title": "Profile Settings",
+      "name": "Name",
+      "email": "Email",
+      "bio": "Bio",
+      "avatar": "Avatar"
+    },
+    "wallet": {
+      "title": "Wallet Settings",
+      "connected": "Connected",
+      "disconnected": "Disconnected",
+      "connect": "Connect",
+      "disconnect": "Disconnect",
+      "paymentAddress": "Payment Address",
+      "ordinalsAddress": "Ordinals Address",
+      "network": "Network",
+      "balance": "Balance"
+    }
+  },
+  "wallet": {
+    "connect": "Connect Wallet",
+    "disconnect": "Disconnect",
+    "connected": "Connected",
+    "connecting": "Connecting...",
+    "connectionError": "Connection error",
+    "balance": "Balance",
+    "address": "Address",
+    "network": "Network",
+    "mainnet": "Mainnet",
+    "testnet": "Testnet"
+  },
+  "notifications": {
+    "title": "Notifications",
+    "markAllRead": "Mark all as read",
+    "clearAll": "Clear all",
+    "noNotifications": "No notifications",
+    "types": {
+      "betPlaced": "Bet placed",
+      "liquidityAdded": "Liquidity added",
+      "marketCreated": "Market created",
+      "marketSettled": "Market settled",
+      "error": "Error"
+    }
+  },
+  "errors": {
+    "walletNotConnected": "Wallet not connected",
+    "insufficientBalance": "Insufficient balance",
+    "transactionFailed": "Transaction failed",
+    "marketNotFound": "Market not found",
+    "invalidAmount": "Invalid amount",
+    "networkError": "Network error",
+    "unknownError": "Unknown error"
+  },
+  "languages": {
+    "pt": "Português",
+    "en": "English",
+    "es": "Español"
+  }
+} 

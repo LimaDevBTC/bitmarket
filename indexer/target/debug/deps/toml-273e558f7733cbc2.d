@@ -1,0 +1,13 @@
+/home/limadevbtc/Documentos/bitmarketbet/indexer/target/debug/deps/libtoml-273e558f7733cbc2.rmeta: /home/limadevbtc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml-0.5.11/src/lib.rs /home/limadevbtc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml-0.5.11/src/map.rs /home/limadevbtc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml-0.5.11/src/value.rs /home/limadevbtc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml-0.5.11/src/datetime.rs /home/limadevbtc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml-0.5.11/src/ser.rs /home/limadevbtc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml-0.5.11/src/de.rs /home/limadevbtc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml-0.5.11/src/tokens.rs /home/limadevbtc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml-0.5.11/src/macros.rs /home/limadevbtc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml-0.5.11/src/spanned.rs
+
+/home/limadevbtc/Documentos/bitmarketbet/indexer/target/debug/deps/toml-273e558f7733cbc2.d: /home/limadevbtc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml-0.5.11/src/lib.rs /home/limadevbtc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml-0.5.11/src/map.rs /home/limadevbtc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml-0.5.11/src/value.rs /home/limadevbtc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml-0.5.11/src/datetime.rs /home/limadevbtc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml-0.5.11/src/ser.rs /home/limadevbtc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml-0.5.11/src/de.rs /home/limadevbtc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml-0.5.11/src/tokens.rs /home/limadevbtc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml-0.5.11/src/macros.rs /home/limadevbtc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml-0.5.11/src/spanned.rs
+
+/home/limadevbtc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml-0.5.11/src/lib.rs:
+/home/limadevbtc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml-0.5.11/src/map.rs:
+/home/limadevbtc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml-0.5.11/src/value.rs:
+/home/limadevbtc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml-0.5.11/src/datetime.rs:
+/home/limadevbtc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml-0.5.11/src/ser.rs:
+/home/limadevbtc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml-0.5.11/src/de.rs:
+/home/limadevbtc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml-0.5.11/src/tokens.rs:
+/home/limadevbtc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml-0.5.11/src/macros.rs:
+/home/limadevbtc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml-0.5.11/src/spanned.rs:

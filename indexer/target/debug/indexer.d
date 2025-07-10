@@ -1,0 +1,1 @@
+/home/limadevbtc/Documentos/bitmarketbet/indexer/target/debug/indexer: /home/limadevbtc/Documentos/bitmarketbet/indexer/src/bitcoin_rpc.rs /home/limadevbtc/Documentos/bitmarketbet/indexer/src/config.rs /home/limadevbtc/Documentos/bitmarketbet/indexer/src/main.rs /home/limadevbtc/Documentos/bitmarketbet/indexer/src/protocol.rs

@@ -1,0 +1,300 @@
+{
+  "common": {
+    "loading": "Carregando...",
+    "error": "Erro",
+    "success": "Sucesso",
+    "cancel": "Cancelar",
+    "confirm": "Confirmar",
+    "save": "Salvar",
+    "edit": "Editar",
+    "delete": "Excluir",
+    "close": "Fechar",
+    "back": "Voltar",
+    "next": "Próximo",
+    "previous": "Anterior",
+    "view": "Ver",
+    "create": "Criar",
+    "update": "Atualizar",
+    "search": "Buscar",
+    "filter": "Filtrar",
+    "sort": "Ordenar",
+    "refresh": "Atualizar",
+    "copy": "Copiar",
+    "copied": "Copiado!",
+    "yes": "Sim",
+    "no": "Não",
+    "active": "Ativo",
+    "inactive": "Inativo",
+    "pending": "Pendente",
+    "confirmed": "Confirmado",
+    "settled": "Liquidado",
+    "cancelled": "Cancelado"
+  },
+  "navigation": {
+    "home": "Início",
+    "markets": "Mercados",
+    "dashboard": "Dashboard",
+    "portfolio": "Portfólio",
+    "settings": "Configurações",
+    "createMarket": "Criar Mercado",
+    "exploreMarkets": "Explorar Mercados",
+    "viewAll": "Ver Todos"
+  },
+  "home": {
+    "hero": {
+      "title": "Mercados de Previsão",
+      "subtitle": "no Bitcoin",
+      "description": "O primeiro mercado de previsão totalmente on-chain construído no Bitcoin usando o protocolo Runes. Aposte em eventos do mundo real com a segurança e confiabilidade do Bitcoin.",
+      "createMarket": "Criar Mercado",
+      "exploreMarkets": "Explorar Mercados",
+      "badge": "O Futuro dos Mercados de Previsão"
+    },
+    "features": {
+      "bitcoinNative": {
+        "title": "Bitcoin Nativo",
+        "description": "Construído diretamente no Bitcoin usando protocolo Runes"
+      },
+      "fullyOnChain": {
+        "title": "Totalmente On-Chain",
+        "description": "Sem intermediários, verdadeira descentralização"
+      },
+      "instantSettlement": {
+        "title": "Liquidação Instantânea",
+        "description": "Transações rápidas e seguras"
+      },
+      "globalAccess": {
+        "title": "Acesso Global",
+        "description": "Negocie de qualquer lugar do mundo"
+      }
+    },
+    "markets": {
+      "title": "Mercados Ativos",
+      "description": "Aposte em eventos do mundo real com Bitcoin",
+      "viewAll": "Ver Todos"
+    }
+  },
+  "market": {
+    "create": {
+      "title": "Criar Mercado",
+      "description": "Crie um novo mercado de previsão e comece a negociar",
+      "steps": {
+        "details": "Detalhes do Mercado",
+        "review": "Revisar e Confirmar",
+        "created": "Mercado Criado"
+      },
+      "form": {
+        "question": "Pergunta do Mercado",
+        "questionPlaceholder": "ex: O Bitcoin atingirá $100k em 2024?",
+        "description": "Descrição",
+        "descriptionPlaceholder": "Descreva o mercado e as condições...",
+        "outcomeA": "Resultado A",
+        "outcomeAPlaceholder": "ex: Sim",
+        "outcomeB": "Resultado B",
+        "outcomeBPlaceholder": "ex: Não",
+        "endDate": "Data de Encerramento",
+        "category": "Categoria",
+        "initialLiquidity": "Liquidez Inicial (USD)"
+      },
+      "categories": {
+        "crypto": "Criptomoedas",
+        "politics": "Política",
+        "sports": "Esportes",
+        "entertainment": "Entretenimento",
+        "technology": "Tecnologia",
+        "other": "Outros"
+      },
+      "success": {
+        "title": "Mercado Criado com Sucesso!",
+        "description": "Seu mercado foi criado e está agora disponível para negociação.",
+        "viewMarket": "Ver Mercado",
+        "createAnother": "Criar Outro"
+      }
+    },
+    "detail": {
+      "backToMarkets": "Voltar aos Mercados",
+      "status": {
+        "active": "Ativo",
+        "settled": "Liquidado",
+        "cancelled": "Cancelado"
+      },
+      "ends": "Termina em",
+      "totalLiquidity": "Liquidez Total",
+      "totalVolume": "Volume Total",
+      "outcomes": {
+        "yes": "Sim",
+        "no": "Não"
+      },
+      "betting": {
+        "title": "Fazer Aposta",
+        "selectOutcome": "Selecione o resultado",
+        "amount": "Valor da aposta (USD)",
+        "amountPlaceholder": "0.00",
+        "odds": "Odds",
+        "potentialWin": "Ganho Potencial",
+        "placeBet": "Fazer Aposta",
+        "connectWallet": "Conecte sua carteira para apostar"
+      },
+      "liquidity": {
+        "title": "Adicionar Liquidez",
+        "selectOutcome": "Selecione o resultado",
+        "amount": "Valor da liquidez (USD)",
+        "amountPlaceholder": "0.00",
+        "addLiquidity": "Adicionar Liquidez",
+        "connectWallet": "Conecte sua carteira para adicionar liquidez"
+      },
+      "settlement": {
+        "title": "Liquidar Mercado",
+        "selectWinner": "Selecione o vencedor",
+        "settleMarket": "Liquidar Mercado",
+        "adminOnly": "Apenas administradores podem liquidar mercados"
+      },
+      "history": {
+        "title": "Histórico de Apostas",
+        "noBets": "Nenhuma aposta ainda",
+        "user": "Usuário",
+        "outcome": "Resultado",
+        "amount": "Valor",
+        "odds": "Odds",
+        "date": "Data"
+      }
+    }
+  },
+  "portfolio": {
+    "title": "Portfólio",
+    "description": "Acompanhe suas apostas e performance nos mercados de previsão",
+    "overview": "Visão Geral",
+    "activePositions": "Posições Ativas",
+    "tradeHistory": "Histórico de Negociações",
+    "stats": {
+      "totalValue": "Valor Total",
+      "totalPnl": "P&L Total",
+      "activePositions": "Posições Ativas",
+      "totalTrades": "Total de Negociações"
+    },
+    "positions": {
+      "title": "Posições Ativas",
+      "market": "Mercado",
+      "outcome": "Resultado",
+      "amount": "Valor",
+      "odds": "Odds",
+      "potentialWin": "Ganho Potencial",
+      "date": "Data"
+    },
+    "history": {
+      "title": "Histórico de Negociações",
+      "market": "Mercado",
+      "outcome": "Resultado",
+      "amount": "Valor",
+      "odds": "Odds",
+      "status": "Status",
+      "date": "Data",
+      "noTrades": "Nenhuma negociação encontrada"
+    }
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "description": "Visão geral da plataforma BitMarket.bet",
+    "stats": {
+      "totalMarkets": "Total de Mercados",
+      "activeMarkets": "Mercados Ativos",
+      "totalVolume": "Volume Total",
+      "totalLiquidity": "Liquidez Total",
+      "totalBets": "Total de Apostas",
+      "uniqueUsers": "Usuários Únicos"
+    },
+    "topMarkets": {
+      "title": "Mercados Mais Ativos",
+      "volume": "Volume",
+      "liquidity": "Liquidez",
+      "bets": "Apostas"
+    },
+    "recentActivity": {
+      "title": "Atividade Recente",
+      "marketCreated": "Mercado criado",
+      "betPlaced": "Aposta realizada",
+      "liquidityAdded": "Liquidez adicionada",
+      "marketSettled": "Mercado liquidado"
+    }
+  },
+  "settings": {
+    "title": "Configurações",
+    "description": "Gerencie suas preferências de conta e segurança",
+    "profile": "Perfil",
+    "security": "Segurança",
+    "notifications": "Notificações",
+    "appearance": "Aparência",
+    "wallet": "Carteira",
+    "language": "Idioma",
+    "restrictedAccess": {
+      "title": "Acesso Restrito",
+      "description": "Conecte sua carteira para acessar as configurações da sua conta",
+      "connectWallet": "Conectar Carteira",
+      "whyConnect": "Por que conectar?",
+      "profilePersonalized": "Perfil Personalizado",
+      "profileDescription": "Configure seu nome, email e bio",
+      "securitySettings": "Configurações de Segurança",
+      "securityDescription": "Gerencie senhas e autenticação",
+      "notifications": "Notificações",
+      "notificationsDescription": "Configure alertas e preferências",
+      "manageWallet": "Gerenciar Carteira",
+      "walletDescription": "Visualize endereços e conecte/desconecte"
+    },
+    "profile": {
+      "title": "Configurações de Perfil",
+      "name": "Nome",
+      "email": "Email",
+      "bio": "Biografia",
+      "avatar": "Avatar"
+    },
+    "wallet": {
+      "title": "Configurações da Carteira",
+      "connected": "Conectado",
+      "disconnected": "Desconectado",
+      "connect": "Conectar",
+      "disconnect": "Desconectar",
+      "paymentAddress": "Endereço de Pagamento",
+      "ordinalsAddress": "Endereço Ordinals",
+      "network": "Rede",
+      "balance": "Saldo"
+    }
+  },
+  "wallet": {
+    "connect": "Conectar Carteira",
+    "disconnect": "Desconectar",
+    "connected": "Conectado",
+    "connecting": "Conectando...",
+    "connectionError": "Erro de conexão",
+    "balance": "Saldo",
+    "address": "Endereço",
+    "network": "Rede",
+    "mainnet": "Mainnet",
+    "testnet": "Testnet"
+  },
+  "notifications": {
+    "title": "Notificações",
+    "markAllRead": "Marcar como lidas",
+    "clearAll": "Limpar",
+    "noNotifications": "Nenhuma notificação",
+    "types": {
+      "betPlaced": "Aposta realizada",
+      "liquidityAdded": "Liquidez adicionada",
+      "marketCreated": "Mercado criado",
+      "marketSettled": "Mercado liquidado",
+      "error": "Erro"
+    }
+  },
+  "errors": {
+    "walletNotConnected": "Carteira não conectada",
+    "insufficientBalance": "Saldo insuficiente",
+    "transactionFailed": "Transação falhou",
+    "marketNotFound": "Mercado não encontrado",
+    "invalidAmount": "Valor inválido",
+    "networkError": "Erro de rede",
+    "unknownError": "Erro desconhecido"
+  },
+  "languages": {
+    "pt": "Português",
+    "en": "English",
+    "es": "Español"
+  }
+} 
