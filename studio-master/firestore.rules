@@ -1,0 +1,42 @@
+rules_version = '2';
+
+service cloud.firestore {
+  match /databases/{database}/documents {
+
+    // Courses collection
+    match /courses/{courseId} {
+      allow read: if request.auth != null;
+      // Allow writes for any authenticated user. Admin page access is gated by the client-side ProtectRoute.
+      allow write: if request.auth != null;
+
+      // Lessons subcollection
+      match /lessons/{lessonId} {
+        allow read: if request.auth != null;
+        // Allow writes for any authenticated user.
+        allow write: if request.auth != null;
+      }
+    }
+
+    // Users collection
+    match /users/{userId} {
+      allow read: if request.auth != null;
+       // Allow writes for any authenticated user to create their own document.
+       // Admin updates are gated by the client-side ProtectRoute.
+      allow write: if request.auth != null;
+
+      // Course Progress subcollection
+      match /courseProgress/{progressId} {
+        allow read, write: if request.auth != null && request.auth.uid == userId;
+      }
+    }
+
+    // Live stream collection
+    match /live/{liveId} {
+      // Allow any authenticated user to read the live status
+      allow read: if request.auth != null;
+      // Allow writes for any authenticated user. Admin page access is gated by the client-side ProtectRoute.
+      // This will be used by the admin panel and eventually by Cloud Functions.
+      allow write: if request.auth != null;
+    }
+  }
+}
